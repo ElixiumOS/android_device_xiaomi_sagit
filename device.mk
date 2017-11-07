@@ -127,11 +127,11 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    OpenCamera \
+    MiuiCamera \
     libshim_camera \
     libshim_MiCamera \
-    camera.device@3.2-impl \
-    android.hardware.camera.provider@2.4-impl 
+    camera.device@1.0-impl-legacy \
+    android.hardware.camera.provider@2.4-impl-legacy 
 
 # Prebuilt
 PRODUCT_COPY_FILES += \
