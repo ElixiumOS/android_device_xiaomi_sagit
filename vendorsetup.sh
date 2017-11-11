@@ -1,0 +1,3 @@
+add_lunch_combo elix_sagit-userdebug
+add_lunch_combo elix_sagit-user
+add_lunch_combo elix_sagit-eng
